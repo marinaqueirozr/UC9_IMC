@@ -1,0 +1,15 @@
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\bin\Debug\net6.0\UC9_IMC.exe
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\bin\Debug\net6.0\UC9_IMC.deps.json
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\bin\Debug\net6.0\UC9_IMC.runtimeconfig.json
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\bin\Debug\net6.0\UC9_IMC.dll
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\bin\Debug\net6.0\ref\UC9_IMC.dll
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\bin\Debug\net6.0\UC9_IMC.pdb
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.AssemblyInfoInputs.cache
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.AssemblyInfo.cs
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.csproj.CoreCompileInputs.cache
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.dll
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\ref\UC9_IMC.dll
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.pdb
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.genruntimeconfig.cache
+C:\Users\marina.qrpaula\source\repos\UC9_IMC\UC9_IMC\obj\Debug\net6.0\UC9_IMC.csproj.AssemblyReference.cache
